@@ -8,9 +8,8 @@ A bot which reposts links from other channels into a designated location (for fi
 - Both server admins and bot-defined admins (defined by a role) can configure the bot. 
 
 ## Commands Available to Everyone
-- `!a domain <add/remove/list> [domain name]` - adds/removes domain names to the list of automatically reposted links, and lists them.\
-
+- `!a add <link>` - manually adds a given link to the repository.
 
 ## Commands Available to Admins
-- `!a add <link>` - manually adds a given link to the repository.
+- `!a domain <add/remove/list> [domain name]` - adds/removes domain names to the list of automatically reposted links, and lists them.\
 - `!a channel <id or name>` - Changes the reposting channel to the given channel, provided said channel is on that server.
