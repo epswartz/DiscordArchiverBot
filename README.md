@@ -1,4 +1,4 @@
-# Proposal: DiscordArchiverBot
+# Outline: DiscordArchiverBot
 A bot which reposts links from other channels into a designated location (for first pass, this will be another discord channel) for safekeeping.
 
 
